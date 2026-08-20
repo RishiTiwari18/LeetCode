@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/RishiTiwari18/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RishiTiwari18/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RishiTiwari18/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
