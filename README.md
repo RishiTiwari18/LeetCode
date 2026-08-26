@@ -7,6 +7,7 @@
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/RishiTiwari18/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
