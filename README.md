@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
