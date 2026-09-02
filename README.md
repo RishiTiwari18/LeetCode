@@ -10,6 +10,7 @@
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
