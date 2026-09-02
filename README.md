@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
