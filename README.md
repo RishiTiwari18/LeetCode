@@ -11,6 +11,7 @@
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/RishiTiwari18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/RishiTiwari18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
