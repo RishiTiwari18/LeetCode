@@ -13,6 +13,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/RishiTiwari18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/RishiTiwari18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +79,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
