@@ -13,6 +13,7 @@
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/RishiTiwari18/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/RishiTiwari18/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -96,8 +97,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
