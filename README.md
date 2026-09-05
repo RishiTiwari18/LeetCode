@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -80,4 +83,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
