@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RishiTiwari18/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -67,6 +68,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RishiTiwari18/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
