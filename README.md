@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
