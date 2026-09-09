@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
