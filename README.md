@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RishiTiwari18/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/RishiTiwari18/LeetCode/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/RishiTiwari18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RishiTiwari18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0867-transpose-matrix) |
