@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/RishiTiwari18/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0213-house-robber-ii) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RishiTiwari18/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RishiTiwari18/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RishiTiwari18/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RishiTiwari18/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RishiTiwari18/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RishiTiwari18/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
@@ -111,4 +114,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/RishiTiwari18/LeetCode/tree/master/0867-transpose-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RishiTiwari18/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RishiTiwari18/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
