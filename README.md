@@ -72,6 +72,7 @@
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/RishiTiwari18/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/RishiTiwari18/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/RishiTiwari18/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0169-majority-element](https://github.com/RishiTiwari18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RishiTiwari18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RishiTiwari18/LeetCode/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/RishiTiwari18/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
